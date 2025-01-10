@@ -25,5 +25,12 @@ Whether you're staking, farming, or holding, 1994.finance offers multiple ways t
 - Stake your favorite tokens or LP tokens to earn 1994 rewards.
 - Compound rewards in the 1994 pool for exponential growth.
 - Hold your 1994 tokens as a store of value and benefit from its scarcity.
+
+## Main contracts
+
+The ecosystem is based on 3 contracts:
+- 1994.sol : the main contract, hosting the 1994 token and all its inner functions.
+- 1994vault.sol : the pools & farms contract, where users can deposit their tokens and LP to farm 1994
+- feeApprover.sol : the transfer checker contract, that apply fee on transfers and blocks liquidity withdrawals (1994/BNB LP) to prevent any liquidity rug pull.
   
 1994.finance combines nostalgia with innovation, creating a unique DeFi experience for investors who value sustainability and fairness. Don’t just stake — redefine farming the old-school way.
