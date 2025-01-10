@@ -1,6 +1,6 @@
-## About 1994
+# About 1994
 
-# A Non-Inflationary Ecosystem
+## A Non-Inflationary Ecosystem
 
 Step into the nostalgic vibes of the 90s with 1994, the retro token with a modern twist. Designed for old-school staking and farming degens, 1994.finance brings a fresh perspective to DeFi.
 Here lies a unique, non-inflationary staking and farming model. Here's what makes us stand out:
@@ -9,7 +9,7 @@ Here lies a unique, non-inflationary staking and farming model. Here's what make
 - Earn Through Volume: Rewards are fueled by the trading volume of the 1994/BNB pair on PancakeSwap. There’s no token inflation—just sustainable growth.
 - Fair Taxation: While buying 1994 tokens is tax-free, a modest 2% sell tax directly funds the rewards pools. These pools are amplified by profit-generating strategies, creating a virtuous cycle of growth.
 
-# Unruggable and Fair
+## Unruggable and Fair
 
 Your trust is our foundation:
 
@@ -18,7 +18,7 @@ Your trust is our foundation:
 - Fair Taxation: While buying 1994 tokens is tax-free, a modest 2% sell tax directly funds the rewards pools. These pools are amplified by profit-generating strategies, creating a virtuous cycle of growth.
 - Paid dev: Don't worry, I'm paid too. I earn a small 2% fee on the claimed rewards from the pools, and 1% of the selling volume.
 
-# Maximize Your Gains
+## Maximize Your Gains
 
 Whether you're staking, farming, or holding, 1994.finance offers multiple ways to grow your portfolio:
 
