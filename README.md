@@ -1,6 +1,6 @@
-##About 1994
+##About 1994##
 
-#A Non-Inflationary Ecosystem
+#A Non-Inflationary Ecosystem#
 
 Step into the nostalgic vibes of the 90s with 1994, the retro token with a modern twist. Designed for old-school staking and farming degens, 1994.finance brings a fresh perspective to DeFi.
 Here lies a unique, non-inflationary staking and farming model. Here's what makes us stand out:
