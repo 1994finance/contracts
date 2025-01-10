@@ -1,4 +1,4 @@
-# About 1994
+# About 1994.Finance
 
 ## A Non-Inflationary Ecosystem
 
